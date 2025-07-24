@@ -44,4 +44,4 @@ http://localhost:3000
  Clean and responsive layout using HTML + CSS + JS
 
 <!-- Author -->
- Himani Kotnala — [@himanikotnala](https://github.com/himanikotnala)
+ khusboo — [@khusboo](https://github.com/khusboo1212)
